@@ -1,6 +1,6 @@
 # Pavel Czempin
 
-Master's student at the Technical University of Munich
+CS PhD student at the University of Southern California
 
 [LinkedIn](linkedin.com/in/pavel-czempin/)
 
